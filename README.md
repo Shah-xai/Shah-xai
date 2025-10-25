@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 🌱 Sharing content about **Machine Learning**, **Deep Learning**, **Generative AI**  
-🧠 Passionate about building intelligent systems and data-driven solutions 
+🧠 Passionate about building intelligent systems and data-driven solutions  
 🧑‍🏫 I teach and write about ML, AI, and Data Science  
 
 ---
