@@ -4,18 +4,18 @@
 [![GitHub Follow](https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social)](https://github.com/YOURUSERNAME)
 
 ### 👨‍💻 About Me  
-🌱 Sharing content about **Machine Learning**, **Deep Learning**, **Generative AI**  
-🧠 Passionate about building intelligent systems and data-driven solutions  
-🧑‍🏫 I teach and write about ML, AI, and Data Science  
+* Sharing content about **Machine Learning**, **Deep Learning**, **Generative AI**  
+* Passionate about building intelligent systems and data-driven solutions  
+* I teach and write about ML, AI, and Data Science  
 
 ---
 
-### 🧠 Skills  
+### Skills  
 **Machine Learning** · **Data Science & Statistical Modeling** · **Deep Learning** · **Large Language Models** · **Computer Vision** · **MLOps** · **Cloud-based ML**
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 | Category | Tools |
 |-----------|-------|
