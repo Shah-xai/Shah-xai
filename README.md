@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am an **Applied AI/ML Engineer and Ph.D. researcher** focused on building machine learning systems from experimentation through production deployment.
+I am an **Applied AI/ML Scientist and Ph.D. researcher** focused on building machine learning systems from experimentation through production deployment.
 
 My work spans:
 
