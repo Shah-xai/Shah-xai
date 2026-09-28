@@ -130,25 +130,24 @@ I am currently deepening my work in:
 
 ## Selected Areas of Work
 
-```text
-Production ML
-├── Model training and evaluation
-├── Experiment tracking
-├── Model serving
-├── CI/CD
-├── Cloud deployment
-└── Monitoring and retraining
+### Production ML
+- Model training and evaluation
+- Experiment tracking
+- Model serving
+- CI/CD
+- Cloud deployment
+- Monitoring and retraining
 
-Applied ML
-├── Time-series forecasting
-├── Computer vision
-├── Anomaly detection
-├── Ranking and retrieval
-└── Generative AI
+### Applied ML
+- Time-series forecasting
+- Computer vision
+- Anomaly detection
+- Ranking and retrieval
+- Generative AI
 
-ML Infrastructure
-├── AWS / SageMaker
-├── Docker
-├── Kubernetes
-├── MLflow
-└── FastAPI
+### ML Infrastructure
+- AWS / SageMaker
+- Docker
+- Kubernetes
+- MLflow
+- FastAPI
