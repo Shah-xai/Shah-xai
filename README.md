@@ -1,46 +1,154 @@
-# 👋 Hi, I'm Shah  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/shah-abedinn)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abedinn.shah@gmail.com)
-[![GitHub Follow](https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social)](https://github.com/YOURUSERNAME)
+# Hi, I'm Shah
 
-### 👨‍💻 About Me  
-* Sharing content about **Machine Learning**, **Deep Learning**, **Generative AI**  
-* Passionate about building intelligent systems and data-driven solutions  
-* I teach and write about ML, AI, and Data Science  
+**Applied AI/ML Engineer | Production ML | MLOps | Forecasting | Ranking & Retrieval**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-abedinn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abedinn.shah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Shah--xai-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shah-xai)
 
 ---
 
-### Skills  
-**Machine Learning** · **Data Science & Statistical Modeling** · **Deep Learning** · **Large Language Models** · **Computer Vision** · **MLOps** · **Cloud-based ML**
+## About Me
+
+I am an **Applied AI/ML Engineer and Ph.D. researcher** focused on building machine learning systems from experimentation through production deployment.
+
+My work spans:
+
+- **Production ML and MLOps**
+- **Time-series forecasting**
+- **Computer vision**
+- **Anomaly and fault detection**
+- **Ranking, retrieval, and recommendation systems**
+- **Generative AI and LLM-based applications**
+
+I work primarily with **Python, PyTorch, TensorFlow, scikit-learn, MLflow, Docker, AWS, and FastAPI**, with experience developing reproducible ML pipelines, deploying inference services, and evaluating models against both technical and operational metrics.
 
 ---
 
-###  Tech Stack
+## Featured Projects
 
-| Category | Tools |
-|-----------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white) |
-| **Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) · ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) · ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) · ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) · ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) · ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) · ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) |
-| **Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| **Orchestration** | ![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
----
+### RetailAI — Personalization, Search & Ranking
+**In development**
 
-### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shah-xai&layout=compact&theme=tokyonight&cache_seconds=86400)
+Production-oriented retail ML platform combining:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shah-xai&show_icons=true&theme=tokyonight&cache_seconds=86400)
+- semantic product retrieval
+- recommendation and ranking models
+- user/product feature pipelines
+- offline ranking evaluation
+- model serving APIs
+- MLflow experiment tracking
+- CI/CD and containerized deployment
+- model monitoring and retraining workflows
 
-
-
+**Focus:** Retrieval · Ranking · Recommendation · NLP · MLOps
 
 ---
 
-### 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shah-xai&theme=tokyonight)
+### Pulmonary Disease Diagnosis
+[Repository](https://github.com/Shah-xai/HealthCare-Pulmonary-diagnosis)
+
+End-to-end hybrid ML/DL system for pulmonary disease classification from CT scans.
+
+- CNN-based feature extraction
+- classical ML classification
+- MLflow experiment tracking
+- DVC data/version management
+- Dockerized inference service
+- GitHub Actions CI/CD
+- AWS deployment
+- >96% macro F1-score on the evaluation dataset
+
+**Focus:** Computer Vision · Deep Learning · MLOps · AWS
 
 ---
 
-⚡ *To generate a README like this, try [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)*  
+### Wind Turbine Fault Detection
+[Repository](https://github.com/Shah-xai/Engineering-WindTurbine_fault_detection)
+
+Predictive-maintenance pipeline for early fault detection using multivariate turbine sensor data.
+
+- unsupervised autoencoder pretraining
+- transfer learning
+- imbalanced classification
+- SHAP-based model interpretation
+- modular ingestion, transformation, training, and evaluation pipelines
+- MLflow experiment tracking
+
+**Focus:** Anomaly Detection · Deep Learning · Predictive Maintenance
+
+---
+
+### SagePrice — End-to-End ML on AWS SageMaker
+[Repository](https://github.com/Shah-xai/AWS-Demo-Deployment)
+
+Cloud-native ML workflow demonstrating:
+
+- managed training on AWS SageMaker
+- S3-based data and artifact storage
+- endpoint deployment
+- model evaluation
+- SHAP-based explainability
+
+**Focus:** AWS SageMaker · Cloud ML · Model Deployment
+
+---
+
+## Technical Focus
+
+### Machine Learning
+Python · PyTorch · TensorFlow · scikit-learn · Keras · Hugging Face  
+Forecasting · Computer Vision · Anomaly Detection · Ranking · Retrieval · Regression · Classification
+
+### ML Engineering & MLOps
+MLflow · DVC · Docker · FastAPI · Flask · GitHub Actions · CI/CD · Kubernetes  
+Model versioning · Experiment tracking · Inference APIs · Model monitoring · A/B testing
+
+### Data
+SQL · Pandas · NumPy · SciPy · PySpark · ETL pipelines
+
+### Cloud
+AWS · SageMaker · S3 · GCP
+
+### Monitoring & Infrastructure
+Prometheus · Grafana · Kubernetes · Docker
+
+---
+
+## Current Focus
+
+I am currently deepening my work in:
+
+- production-grade **ranking and recommendation systems**
+- **semantic retrieval and product search**
+- scalable **time-series forecasting**
+- model serving and inference optimization
+- ML observability and drift detection
+- canary, shadow, and A/B model deployment strategies
+
+---
+
+## Selected Areas of Work
+
+```text
+Production ML
+├── Model training and evaluation
+├── Experiment tracking
+├── Model serving
+├── CI/CD
+├── Cloud deployment
+└── Monitoring and retraining
+
+Applied ML
+├── Time-series forecasting
+├── Computer vision
+├── Anomaly detection
+├── Ranking and retrieval
+└── Generative AI
+
+ML Infrastructure
+├── AWS / SageMaker
+├── Docker
+├── Kubernetes
+├── MLflow
+└── FastAPI
